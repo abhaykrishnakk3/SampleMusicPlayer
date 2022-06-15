@@ -8,6 +8,9 @@ class ScreenSecond extends StatefulWidget {
   List<SongModel> onaudio;
   int index;
 
+
+  
+
   ScreenSecond({required this.onaudio, required this.index, Key? key})
       : super(key: key);
 
